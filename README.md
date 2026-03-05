@@ -1,7 +1,7 @@
 ## Hi 👋🏿, I am Sang David
 A DevSecOps Engineer with experience using Cloud-native Applications, integrating security into Software Developement Life Cycles, Threat Modelling for System Architectures, DevOps, Technical Writing, and Public Speaking.
 
-## 🧑🏿‍💻 Proffessional Journey
+## 🧑🏿‍💻 Professional Journey
 Throughout my career as a DevSecOps Engineer with hands-on experience in building secure, scalable, and production-ready applications, I have:
 - Integrated Secret Management, Image Scanning, SAST, and DAST tools like Trufflehog, Trivy, Snyk, SonarQube, and OWASP ZAP respectively into CI/CD pipelines to scan codebases, Docker images, and dependencies for vulnerabilities and poor coding practices.
 - Implemented pre-commit hooks to validate developer code before Git commits locally.
